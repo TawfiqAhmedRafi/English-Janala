@@ -13,17 +13,3 @@ Visit the live site: [English Janala Live](https://tawfiqahmedrafi.github.io/Eng
 - Progress tracking dashboard
 - User-friendly interface
 
-## 🛠️ Getting Started
-
-Clone the repository and start the app locally:
-
-```bash
-git clone https://github.com/yourusername/english-janala.git
-cd english-janala
-npm install
-npm start
-```
-
-## 📄 License
-
-This project is licensed under the MIT License.
